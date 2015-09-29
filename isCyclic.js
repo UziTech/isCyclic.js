@@ -2,7 +2,7 @@
 /* 
  * Author: Tony Brix
  * License: MIT
- * Description: Check if an object is cyclic. Log the cyclic object and the path itself.
+ * Description: Check if an object is cyclic. Log the cyclic object and the path to itself.
  */
 
 //modified from http://blog.vjeux.com/2011/javascript/cyclic-object-detection.html
