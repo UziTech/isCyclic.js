@@ -6,7 +6,7 @@
  */
 
 //modified from http://blog.vjeux.com/2011/javascript/cyclic-object-detection.html
-object.prototype.isCyclic = function () {
+Object.prototype.isCyclic = function () {
 	var seenObjects = [];
 	var loopStarter = null;
 	var keyString = "";
